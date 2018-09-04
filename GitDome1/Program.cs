@@ -10,6 +10,7 @@ namespace GitDome1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("你好 第一次玩GitHub");
         }
     }
 }
